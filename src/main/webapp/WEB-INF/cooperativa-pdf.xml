@@ -9,6 +9,6 @@
                            http://www.springframework.org/schema/mvc
                            http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
-	<bean id="GeneratePdf" class="com.llamita.factullamita.view.GeneratePdf">
+	<bean id="GeneratePdf" class="com.llamita.cooperativa.view.GeneratePdf">
 	</bean>
 </beans>

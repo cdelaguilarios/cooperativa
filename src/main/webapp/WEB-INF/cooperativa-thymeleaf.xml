@@ -26,7 +26,7 @@
 	<bean id="viewResolver1" class="org.springframework.web.servlet.view.XmlViewResolver">
 		<property name="order" value="1" />
 		<property name="location">
-			<value>/WEB-INF/factullamita-pdf.xml</value>
+			<value>/WEB-INF/cooperativa-pdf.xml</value>
 		</property>
 	</bean>
 

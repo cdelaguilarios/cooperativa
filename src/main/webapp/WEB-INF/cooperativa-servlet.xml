@@ -12,5 +12,5 @@
     <mvc:resources mapping="/img/**" location="/WEB-INF/public/img/"/>
     <mvc:resources mapping="/fonts/**" location="/WEB-INF/public/fonts/"/>
 
-    <import resource="factullamita-thymeleaf.xml"/>
+    <import resource="cooperativa-thymeleaf.xml"/>
 </beans>
